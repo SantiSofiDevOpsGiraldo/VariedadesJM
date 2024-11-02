@@ -68,7 +68,7 @@ public class Main {
     }
 
     private static void mostrarMenuPrincipal() {
-        System.out.println("\n=== Sistema de E-commerce ===");
+        System.out.println("\n=== Sistema de VariedadesJM ===");
         System.out.println("1. Iniciar Sesión");
         System.out.println("2. Crear Cuenta");
         System.out.println("3. Ver Catálogo");
