@@ -1,3 +1,30 @@
+# Entorno virtual de Python
 env/
 *.pyc
 __pycache__/
+
+# Java/Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDEs
+.idea/
+.vscode/
+*.iws
+*.iml
+*.ipr
+
+# Sistemas Operativos
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/
+/nbbuild/
+/dist/
